@@ -1,4 +1,4 @@
-> Forked from https://github.com/dnl-blkv/mcdowell-cv
+> Taken from https://github.com/dnl-blkv/mcdowell-cv
 
 # McDowell CV
 McDowell CV is a LuaLaTeX class for building neat and space-efficient CVs using the design originally proposed by Gayle L. McDowell at
